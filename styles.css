@@ -1,0 +1,13 @@
+header{
+    background-color:rgb(rgb(255, 187, 0), green, rgb(55, 55, 201)) ;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px
+}
+body{
+   color: coral;
+   background-color: darkolivegreen;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 40px;
+}
